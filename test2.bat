@@ -1,7 +1,4 @@
-$ karan="Karan"
- echo %userdomain%
- echo "Hi"
-$ var="Garg"
-echo ${!karan}
-echo ${!var}
-echo "Bye"
+$ foo=bar
+$ var_name=(${!foo@})
+$ echo $var_name" = "$foo
+foo = bar
