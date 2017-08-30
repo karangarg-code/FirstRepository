@@ -1,1 +1,1 @@
-echo I am the best
+echo agent.name
