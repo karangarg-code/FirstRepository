@@ -1,1 +1,1 @@
-echo %env.USERNAME%
+echo %env.MyUserName%
