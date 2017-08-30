@@ -1,1 +1,1 @@
-echo agent.name
+echo %agent.name%
