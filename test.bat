@@ -1,2 +1,2 @@
-env.MyUserName = Karan
-echo %env.MyUserName%
+MyUserName = Karan
+echo $MyUserName
