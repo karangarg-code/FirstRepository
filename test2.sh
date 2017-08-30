@@ -1,2 +1,0 @@
-MyUserName = Karan
-echo $MyUserName
