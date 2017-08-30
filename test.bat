@@ -1,1 +1,1 @@
-echo $env.MyUserName
+echo %env.MyUserName%
