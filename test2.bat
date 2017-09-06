@@ -1,1 +1,1 @@
-echo Hi Karan
+echo Hi
