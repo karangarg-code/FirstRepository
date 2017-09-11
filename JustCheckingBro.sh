@@ -1,1 +1,2 @@
-echo Learn More
+echo Explore
+
